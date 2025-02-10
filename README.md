@@ -42,7 +42,7 @@ TriCo 是一個專注於服務媒合的網站，讓使用者可以輕鬆購買�
 4. **啟動 Poetry 的虛擬環境**
 
    ```
-   poetry shell
+   poetry env use python
    ```
 
 5. **遷移資料庫模型欄位**
